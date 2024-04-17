@@ -6,3 +6,4 @@ Markdown<3.4
 requests
 bleach
 tzdata
+sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
